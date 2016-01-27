@@ -94,6 +94,10 @@ table{
 }
 
 /* list ****************************************/
+ul {
+  list-style-type: none;
+}
+
 .list-inline {
   padding-left:0;
 }
